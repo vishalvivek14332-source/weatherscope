@@ -31,6 +31,7 @@ https://vishalvivek14332-source.github.io/weatherscope/
 
 ## 🛠 Technologies Used
 
+
 * HTML5
 * CSS3
 * JavaScript
