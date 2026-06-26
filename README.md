@@ -4,7 +4,7 @@ A modern weather dashboard built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-https://vishalvivek14332-source.github.io/weatherscope/
+https://vishalvivek14332-source.github.io/WeatherScope/
 
 ## ✨ Features
 
